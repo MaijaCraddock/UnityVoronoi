@@ -13,7 +13,7 @@
   Additionally, these robust functions are used to find the determinant of matrices. 
 
   ## How To Use This Project ##
-  To view a simple output for how the project works, simply download the entire unity project and run it.
+  To view a simple output for how the project works, simply download the entire unity project and run it.\
   To use this project for yourself in a preexisting Unity project, download only the files in Assets/Scripts, which include all files necessary for Voronoi generation given a set of input sites, and optional upper and lower bounds for the bounding box's XY coordinates.
   
   ### User Calls ###
