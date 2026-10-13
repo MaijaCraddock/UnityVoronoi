@@ -15,6 +15,11 @@
   ## How To Use This Project ##
   To view a simple output for how the project works, simply download the entire unity project and run it.\
   To use this project for yourself in a preexisting Unity project, download only the files in Assets/Scripts, which include all files necessary for Voronoi generation given a set of input sites, and optional upper and lower bounds for the bounding box's XY coordinates. /
-  PS - If you use this project for a school project or something larger please let me know! I love seeing my stuff in the wild :p
+  
   ### User Calls ###
   TBD
+
+  /
+  /
+  PS - If you use this project for a school project or something larger please let me know! I love seeing my stuff in the wild :p
+  
